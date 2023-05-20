@@ -31,7 +31,7 @@ useEffect(() => {
   return (
     <div className="px-40 md:px-14 font-PJ py-[30px] sm:p-14 bg-[url('./Assets/herobg.png')]   bg-no-repeat bg-cover  bg-center  h-screen">
       <div className="flex font-semibold text-white text-[18px]  items-center justify-between">
-        <h1>Mailsa Flex</h1>
+        <h1>MalisaFlex</h1>
         <button className="border-2 w-[170px] sm:hidden md:w-[140px] md:text-[14px]  h-[50px] " onClick={handleClickScroll}>
           Join the Waitlist
         </button>
